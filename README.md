@@ -113,14 +113,13 @@ In such case, such organizations can donate these items and NGOs can use this in
 
 To set up and launch the server application:
 
-1. Go to the `essentials-assistant-covid19/server-app/CovidServer` directory of the cloned repo.
-1. Go to the `essentials-assistant-covid19/server-app/SocketServer` directory of the cloned repo.
+1. Go to the `essentials-assistant-covid19/server-app` directory of the cloned repo.
 1. From a terminal:
     1. Go to the `essentials-assistant-covid19/server-app/SocketServer` directory of the cloned repo.
     1. Install the dependencies: `npm install`.
     1. Go to the `essentials-assistant-covid19/server-app/CovidServer` directory of the cloned repo.
     1. Install the dependencies: `npm install`.
-    1. Launch the server application locally or deploy to IBM Cloud:
+    1. Launch the server application locally:
         - To run locally:
             1. Start the application: `npm start`.
             1. The server can be accessed at <http://localhost:3000>.
