@@ -102,7 +102,7 @@ In such case, such organizations can donate these items and NGOs can use this in
         - [Java Development Kit](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
         - [Android Studio](https://developer.android.com/studio/index.html) - add Android 9 (Pie) SDK & configure `ANDROID_HOME`
         - [Create an Android Virtual Device (AVD)](https://developer.android.com/studio/run/managing-avds.html) - with Pie image (API Level 28)
-- Clone the [repository](https://gitext.persistent.co.in/ibm-datacap-tools-team/toolsteam/tree/Essentials_Assistant).
+- Clone the [repository](https://github.com/Pradnya-Valsangkar/essentials-assistant-covid19).
 
 ### Steps
 
@@ -162,5 +162,5 @@ To run the mobile application (using the Xcode iOS Simulator or Android Studio E
 - [Covid19 India API](https://api.covid19india.org/resources/resources.json)
 
 ## License
-This solution starter is made available under the [Apache 2 License](LICENSE).
+This solution is made available under the [Apache 2 License](LICENSE).
  
