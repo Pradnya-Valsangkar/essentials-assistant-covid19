@@ -1,4 +1,3 @@
-# essentials-assistant-covid19
 # Essentials Assistant in COVID19 Times
 Essentials Assistant in COVID19 Times is a solution for COVID19 which was developed as a part of the ‘2020 Call For Code Global Challenge’ 
 (https://callforcode.org/) 
@@ -37,8 +36,10 @@ The goal is to provide a mobile application, along with server-side components, 
 
 ## Demo video
 [Click here to see YouTube video](https://youtu.be/QcnjF3O2fds)
+
 ###
-![img](https://i9.ytimg.com/vi/QcnjF3O2fds/mq1.jpg?sqp=CLz3hPkF&rs=AOn4CLBt2rL9PdQa2ylb3CD5zn8u7J4kxg)
+![img](https://img.youtube.com/vi/QcnjF3O2fds/1.jpg)
+
 ### 
 [![Watch the video](https://i9.ytimg.com/vi/QcnjF3O2fds/mq1.jpg?sqp=CLz3hPkF&rs=AOn4CLBt2rL9PdQa2ylb3CD5zn8u7J4kxg)](https://youtu.be/QcnjF3O2fds)
 
