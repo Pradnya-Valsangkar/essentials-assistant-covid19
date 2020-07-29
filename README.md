@@ -39,7 +39,7 @@ The goal is to provide a mobile application, along with server-side components, 
 [![Watch the video](https://user-images.githubusercontent.com/67259307/88787020-dec31e80-d1b0-11ea-90d3-51fc9bbba13f.jpeg)](https://youtu.be/QcnjF3O2fds "Demo Video")
 
 ## The architecture
-![Essentials Assistant Architecture](Mobile App/images/Architecture.png)
+![Essentials Assistant Architecture](https://github.com/Pradnya-Valsangkar/essentials-assistant-covid19/blob/master/Mobile%20App/images/Architecture.png)
 
 The ‘Essentials Assistant in COVID19 times’ mobile app which is developed in React-Native will be used by the mobile users having Android or iOS phones. 
 If the user wants to find the nearby test center or grocery store, the request will go to the Essentials Assistant Server which is written in Node.js. 
@@ -85,7 +85,7 @@ the information.
 In such case, such organizations can donate these items and NGOs can use this information for distributing these donated items to appropriate places.
 
 ## Project roadmap
-![Essentials Assistant Roadmap](Mobile App/images/roadmap.png)
+![Essentials Assistant Roadmap](https://github.com/Pradnya-Valsangkar/essentials-assistant-covid19/blob/master/Mobile%20App/images/roadmap.png)
 
 ## Getting started
 ### Prerequisites
