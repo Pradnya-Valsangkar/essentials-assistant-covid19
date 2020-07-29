@@ -37,11 +37,8 @@ The goal is to provide a mobile application, along with server-side components, 
 ## Demo video
 [Click here to see YouTube video](https://youtu.be/QcnjF3O2fds)
 
-###
-![img](https://img.youtube.com/vi/QcnjF3O2fds/1.jpg)
-
 ### 
-[![Watch the video](https://i9.ytimg.com/vi/QcnjF3O2fds/mq1.jpg?sqp=CLz3hPkF&rs=AOn4CLBt2rL9PdQa2ylb3CD5zn8u7J4kxg)](https://youtu.be/QcnjF3O2fds)
+[![Watch the video](https://i9.ytimg.com/vi/QcnjF3O2fds/mq1.jpg?sqp=CLz3hPkF&rs=AOn4CLBt2rL9PdQa2ylb3CD5zn8u7J4kxg)](https://youtu.be/QcnjF3O2fds "Demo Video")
 
 
 ## The architecture
