@@ -35,11 +35,7 @@ The goal is to provide a mobile application, along with server-side components, 
 
 
 ## Demo video
-[Click here to see YouTube video](https://youtu.be/QcnjF3O2fds)
-
-### 
-[![Watch the video](https://i9.ytimg.com/vi/QcnjF3O2fds/mq1.jpg?sqp=CLz3hPkF&rs=AOn4CLBt2rL9PdQa2ylb3CD5zn8u7J4kxg)](https://youtu.be/QcnjF3O2fds "Demo Video")
-
+[![Watch the video](https://user-images.githubusercontent.com/67259307/88787020-dec31e80-d1b0-11ea-90d3-51fc9bbba13f.jpeg)](https://youtu.be/QcnjF3O2fds "Demo Video")
 
 ## The architecture
 ![Essentials Assistant Architecture](Mobile App/images/Architecture.png)
