@@ -12,7 +12,7 @@ Essentials Assistant in COVID19 Times is a solution for COVID19 which was develo
 7.	[Getting started](#getting-started)
 8.  [Built with](#built-with)
 9.	[Authors](#authors)
-10.  [References](#references)
+10. [References](#references)
 11.	[License](#license)
 
 ## Short description
