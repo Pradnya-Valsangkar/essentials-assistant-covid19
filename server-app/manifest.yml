@@ -1,0 +1,11 @@
+applications:
+- name: Essentials-Assistant
+  command: npm start
+  path: ./CovidServer
+  memory: 128M
+  instances: 1
+- name: Narad-Muni-Sanvaad-App
+  command: npm start
+  path: ./SocketServer
+  memory: 64M
+  instances: 1
