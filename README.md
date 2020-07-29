@@ -4,15 +4,16 @@ Essentials Assistant in COVID19 Times is a solution for COVID19 which was develo
 
 ## Contents
 1.	[Short description](#short-description)
-2.	[Demo video](#demo-video )
-3.	[The architecture](#the-architecture)
-4.	[Long description](#long-description)
-5.	[Project roadmap](#project-roadmap)
-6.	[Getting started](#getting-started)
-7.  [Built with](#built-with)
-8.	[Authors](#authors)
-9.  [References](#references)
-10.	[License](#license)
+2.  [Features](#features)
+3.	[Demo video](#demo-video )
+4.	[The architecture](#the-architecture)
+5.	[Long description](#long-description)
+6.	[Project roadmap](#project-roadmap)
+7.	[Getting started](#getting-started)
+8.  [Built with](#built-with)
+9.	[Authors](#authors)
+10.  [References](#references)
+11.	[License](#license)
 
 ## Short description
 
@@ -34,9 +35,15 @@ applications, giving optimum guidance so that they are outside of their isolatio
 It's imperative that the community does not face hassles while carrying out their regular activities in times of crises, such as the COVID-19 pandemic. 
 The goal is to provide a mobile application, along with server-side components, that will address the local needs for food, equipment, and resources.
 
+## Features
+- **Essentials locator**
+- **Remote Medical Assistant**
+- **Virtual Queue for Grocery stores**
+- **Donor Consumer Platform**
+- **Chatbot Interactive agent**
 
 ## Demo video
-[![Watch the video](https://user-images.githubusercontent.com/67259307/88787020-dec31e80-d1b0-11ea-90d3-51fc9bbba13f.jpeg)](https://youtu.be/QcnjF3O2fds "Demo Video")
+[![Watch the video](https://user-images.githubusercontent.com/67259307/88787020-dec31e80-d1b0-11ea-90d3-51fc9bbba13f.jpeg)](https://youtu.be/MTE26Jkowow "Demo Video")
 
 ## The architecture
 ![Essentials Assistant Architecture](https://github.com/Pradnya-Valsangkar/essentials-assistant-covid19/blob/master/Mobile%20App/images/Architecture.png)
