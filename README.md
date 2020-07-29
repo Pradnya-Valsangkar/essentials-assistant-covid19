@@ -11,7 +11,7 @@ Essentials Assistant in COVID19 Times is a solution for COVID19 which was develo
 6.	[Getting started](#getting-started)
 7.  [Built with](#built-with)
 8.	[Authors](#authors)
-9.  [Referrences](#referrences)
+9.  [References](#references)
 10.	[License](#license)
 
 ## Short description
@@ -157,7 +157,7 @@ To run the mobile application (using the Xcode iOS Simulator or Android Studio E
 - Ashwini Dongre - ashwini_dongre@persistent.com
 - Pallavi Sinha – pallavi_sinha@persistent.com 
 
-## Referrences
+## References
 - [HERE API from HERE Developer Portal](https://developer.here.com/ref/IBM_starterkit_Covid?create=Freemium-Basic) 
 - [Covid19 India API](https://api.covid19india.org/resources/resources.json)
 
