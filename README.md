@@ -36,7 +36,7 @@ It's imperative that the community does not face hassles while carrying out thei
 The goal is to provide a mobile application, along with server-side components, that will address the local needs for food, equipment, and resources.
 
 ## Features
-- **Essentials locator**
+- **Essentials Locator**
 - **Remote Medical Assistant**
 - **Virtual Queue for Grocery stores**
 - **Donor Consumer Platform**
