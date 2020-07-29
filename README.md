@@ -38,9 +38,9 @@ The goal is to provide a mobile application, along with server-side components, 
 ## Features
 - **Essentials Locator**
 - **Remote Medical Assistant**
-- **Virtual Queue for Grocery stores**
+- **Virtual Queue for Grocery Stores**
 - **Donor Consumer Platform**
-- **Chatbot Interactive agent**
+- **Chatbot Interactive Agent**
 
 ## Demo video
 [![Watch the video](https://user-images.githubusercontent.com/67259307/88787020-dec31e80-d1b0-11ea-90d3-51fc9bbba13f.jpeg)](https://youtu.be/MTE26Jkowow "Demo Video")
